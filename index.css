@@ -1,0 +1,111 @@
+
+   
+body{
+    background-color: cornsilk;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Times, serif
+}
+
+h4  {
+    margin-top: -20px;
+    padding-left: 70px;
+}
+
+
+i{
+    margin-top: -20px;
+    padding-left: 70px;
+}
+.icon{
+    
+    float: right;
+    margin-right: 70px;
+    margin-top: 10px;
+
+}
+.comment{
+    float: right;
+    margin-right: -80px;
+    margin-top: 20px;
+    width: 20px;
+}
+.class-link{
+    color:black;
+  
+    margin: 10%;
+    margin-top: 10px;
+
+}
+a{
+    color: lightslategray;
+    margin: 60px;
+}
+.class-recording{
+    color: black;
+  
+    margin: 10%;
+    margin-top: 10px;
+
+}
+
+.class-teams{
+    color: black;
+   
+    margin: 10%;
+    margin-top: 10px;
+
+}
+
+.doubt-section{
+    color: black;
+    width: 1000px; height: 200px; border: 1px solid black; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+table,td{
+    width:900px;
+    border: 2px solid; 
+    margin-left: 40px;
+    border-collapse: collapse;
+}
+.contact{
+    color: black;
+    width: 1000px; height: 300px; border: 1px solid black; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+}
+.class-s{
+    color: black;
+    width: 1000px; height: 700px; border: 1px solid black; margin: 0 auto;
+    margin: 10%;
+    margin-top: 10px;
+
+}
+#table1 thead tr :nth-child(1){
+background-color: sienna;
+}
+#table1 tr:nth-child(1){
+    background-color: sienna;
+}
+#table2 thead tr:nth-child(2n){
+    background-color: springgreen;
+}
+#table2 thead tr:nth-child(2n+1){
+    background-color: tomato;
+}
+#table3 thead tr:nth-child(1){
+    background-color: yellow;
+}
+#table3 thead tr:nth-child(3n){
+    background-color: violet;
+}
+#table3 thead tr:nth-child(2n){
+    background-color: thistle;
+}
+#table3 thead tr:nth-child(2n+1){
+    background-color: blueviolet;
+}
+#table3 thead tr:nth-child(3n+1){
+    background-color: coral;
+}
+
